@@ -4,7 +4,7 @@
   "description": "Módulo simple que representa formas cuadradas.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --require should"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-square#readme",
   "dependencies": {
-    "@ull-edna-joseluis-kevin-35l2/ull-shape": "^1.0.0"
+    "@ull-edna-joseluis-kevin-35l2/ull-shape": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
   }
 }
