@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-square/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-square#readme"
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-square#readme",
+  "dependencies": {
+    "@ull-edna-joseluis-kevin-35l2/ull-shape": "^1.0.0"
+  }
 }
